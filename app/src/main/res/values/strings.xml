@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">GodDiary2</string>
+
+    <string-array name="array_weather">
+        <item>晴れ</item>
+        <item>曇り</item>
+        <item>雨</item>
+        <item>雷雨</item>
+        <item>雪</item>
+        <item>吹雪</item>
+    </string-array>
+
+    <string-array name="array_year">
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+        <item>2027</item>
+        <item>2028</item>
+        <item>2029</item>
+        <item>2030</item>
+    </string-array>
+
+    <string-array name="array_month">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textWeather">天気</string>
+    <string name="textCondition">コンディション</string>
+    <string name="textDate">日付</string>
+    <string name="buttonSave">保存</string>
+    <string name="howday">どんな１日？</string>
+    <string name="maketag">タグ作成</string>
+    <string name="tag">タグ</string>
+</resources>
